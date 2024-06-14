@@ -5,8 +5,7 @@ The project generates a Youtube playlist based on Spotify data. The playlist con
 
 **Backend:**
 - Python (Flask/Django) 
-- Spotify API
+- Spotify and Youtube API
 
 **Frontend:**
-- JavaScript (React/Vue.js) 
-- YouTube Data API
+- JavaScript (React) 
